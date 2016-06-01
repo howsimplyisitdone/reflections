@@ -1,0 +1,54 @@
+// finding the difference between two versions 
+// of files are done as follow:
+FC filename1 filename2 // for windows
+diff -u filename1 filename2 // for Mac and Linux
+
+// It was helpful because it makes comparison of 
+// files easier using simple codes!
+
+// How could having easy access to the entire 
+// history of a file make you a more efficient 
+// programmer in the long term?
+
+// It gives me a view of what I have done
+// in the past that worked and which that
+// didn't.
+// I will be able to see the frequency of
+// my mistakes and how can I improve and not
+// do it again
+
+// What do you think are the pros and cons of manually 
+// choosing when to create a commit, like you do in Git,
+// vs having versions automatically saved, like Google 
+// Docs does?
+
+// It will be troublesome if you forget to commit things
+// It will be efficient if done correctly.
+
+// Why do you think some version control systems,
+// like Git, allow saving multiple files in one commit,
+// while others, like Google Docs, treat each file separately?
+
+// It depends on the application of the version control,
+// Git was trageted to programming code hence there was a
+// need to employ multiple files in one commit.
+
+// How can you use the commands git log
+// and git diff to view the history of files?
+
+// git log will give you a hisory of the commits
+// and corresponding description while git diff
+// will identify the lines changed by those commits
+
+// How might using version control make you
+// more confident to make changes that could
+// break something?
+
+// It gives me freedom to go experiment and
+// edit my codes
+
+// Now that you have your workspace
+// set up, what do you want to try
+// using Git for?
+
+// Android App codes, etc.
