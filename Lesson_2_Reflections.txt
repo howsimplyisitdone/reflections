@@ -1,0 +1,13 @@
+// What happens when you initialize
+// a repository? Why do you need to do it?
+
+// It will be identified by Git as a repository.
+// This is required for the succeding commands we will do soon.
+
+// How is the staging area different from the working
+// directory and the repository? What value do you
+// think it offers?
+
+// Staging area is where git initially stage the files we intend to add
+// to the working directory.
+// It offers flexibility in terms of not messing the working directory.
