@@ -11,3 +11,27 @@
 // Staging area is where git initially stage the files we intend to add
 // to the working directory.
 // It offers flexibility in terms of not messing the working directory.
+
+// How can you use the staging area to make
+// sure you have one commit per logical change?
+
+// Staging area lets me prepare which file should I commit.
+
+// What are some situations when branches would be
+// helpful in keeping your history organized? How would branches help?
+
+// It will enable you to experiment while keeping the master intact.
+
+// How do the diagrams help you visualize the branch structure?
+
+// It makes things clearer and cleaner to take in.
+
+// What is the result of merging two branches together?
+// Why do we represent it in the diagram the way we do?
+
+// It enables the master to have all the updates in one master branch.
+
+// What are the pros and cons of Git’s automatic merging 
+// vs. always doing merges manually?
+
+// A lot!
