@@ -10,3 +10,9 @@
 
 // It gives you flexibility
 
+// Describe the differences between forks, clones,
+// and branches. When would you use one instead of another?
+
+// Forks are clones in GitHub. Clones maybe done between GitHub
+// and Local or within Local. Branches are current copies of the
+// Master or any existing Branch.
