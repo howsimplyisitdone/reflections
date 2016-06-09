@@ -26,3 +26,10 @@
 // or GitHub? What would be easier, and what would be harder?
 
 // Email, Lync or phone call.
+
+// When would you want to make changes in a separate
+// branch rather than directly in master?
+// What benefits does each approach have?
+
+// When you wanted to introduce a feature on top of
+// of what is in master.
