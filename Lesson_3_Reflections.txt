@@ -16,3 +16,9 @@
 // Forks are clones in GitHub. Clones maybe done between GitHub
 // and Local or within Local. Branches are current copies of the
 // Master or any existing Branch.
+
+// What is the benefit of having a copy of
+// the last known state of the remote stored locally?
+
+// Flexibility
+
